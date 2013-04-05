@@ -1,4 +1,4 @@
-<script src="<?php echo $plugin; ?>src/src/epiceditor.min.js"></script>
+<script src="<?php echo $plugin; ?>src/epiceditor/js/epiceditor.min.js"></script>
 <script>
 //Override the "basePath" option in all instances made of EpicEditor.
 (function(root, EpicEditor){
